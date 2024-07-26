@@ -1,6 +1,3 @@
-//C026-01-0909/2022
-//SOLOMON NDIMU NGANDU PRESENTATION
-
 #include <stdio.h>
 #include <math.h>
 
